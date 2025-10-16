@@ -21,14 +21,14 @@ If I want to name that vector then use names(my_name) <- c("First", "Last")
 
 To create a matrix {which is used for a collection of elemnts of the same data type} 
 
-```{r cars}
+```{r name}
 my_name <- c("Tiffany", "Wheeler")
 names(my_name) <- c("First", "Last")
 my_name["First"]
 ```
 ## Some additional code
 
-```{r}
+```{r grade types}
 Mark_Types <- c(A = "excellent", B = "very good", c = "good")
 Mark_Types
 ```
