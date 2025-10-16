@@ -26,6 +26,17 @@ my_name <- c("Tiffany", "Wheeler")
 names(my_name) <- c("First", "Last")
 my_name["First"]
 ```
+## Some additional code
+
+```{r}
+Mark_Types <- c(A = "excellent", B = "very good", c = "good")
+Mark_Types
+```
+## Here are some lists 
+
+- [ ] Check List
+- Bullet List
+1. Numbered list
 
 ## Including Plots
 
